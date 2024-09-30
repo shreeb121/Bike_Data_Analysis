@@ -1,3 +1,7 @@
+**PowerBI - Rented Bikes - Data Analysis POC**
+
+Tools Used: MS PowerBI and MS SQL Server
+
 This is an end-to-end data analysis project. This project outlines the whole end-to-end process of data analysis. 
 
 Here we are trying to understand if increasing prices next year is possible for a company called Star City Bikes which provides bkes on rent.  All files and data provided.  Here is the workflow as below:
